@@ -1,0 +1,40 @@
+*, *::before, *::after {
+
+    box-sizing: border-box;
+
+}
+.horizontal {
+    margin-top:5px;
+    margin-bottom:5px;
+    height:1px;
+    width:100%;
+    border-top:1px solid gray;
+   }
+.container {
+
+    margin: 10px 0px;
+
+}
+
+.btn {
+
+    width: 100px;
+
+}
+.card-body {
+    background-color: #e6b3ff;
+    margin:0px
+}
+#main-card {
+    width: flex;
+    background-color: #e6b3ff;
+}
+
+.favorite-city {
+    width: auto;
+    margin: 10px;
+}
+
+.city-buttons {
+    margin: 10px;
+}
